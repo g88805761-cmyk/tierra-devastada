@@ -1,2 +1,1 @@
-# tierra-devastada
-Un juego RPG en Python
+python tierra_devastada.py
